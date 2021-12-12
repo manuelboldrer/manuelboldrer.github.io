@@ -23,5 +23,10 @@ from the University of Trento, Trento, Italy, in 2018, where he is currently
 pursuing the Ph.D. degree in Materials, Mechatronics and
 Systems Engineering. \n\n\n\n\n\n\n\n\n\n
 
-{}{img_left}{world.jpg}{alt text}{8}{8}{https://manuelboldrer.github.io/personal_website/}\n
-[https://info.flagcounter.com/3LTQ Flag counter]\n
+~~~
+{}{img_left}{world.jpg}{alt text}{28}{28}{https://manuelboldrer.github.io/personal_website/}
+
+[https://info.flagcounter.com/3LTQ Flag counter] \n
+
+{{<img src="https://info.flagcounter.com/3LTQ/count/123/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="" border="0">}} \n
+~~~
