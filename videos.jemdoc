@@ -1,7 +1,18 @@
 # jemdoc: menu{MENU}{videos.html}
 =Multimedia Material
 
-{{<p> <iframe width=“560” height=“315” src=“https:www.youtube.comwatch?v=AQxW9aP8ugo” frameborder=“0” allow=“accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture” allowfullscreen><iframe> </p>}}
-~~~
+=== Multi-Agent Navigation in Human-Shared Environments: a Safe and Socially-aware Approach
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/bpX4C0k5aZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}} \n
 
-~~~
+=== Graph Connectivity Control of a Mobile Robot Network with Mixed Dynamic Multi-Tasks
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/JsEI5KVG1qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}} \n
+
+=== Socially-Aware Reactive Obstacle Avoidance Strategy Based on Limit Cycle \n
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZpZAXrJ8HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}} \n
+
+=== Lloyd-based Approach for Robots Navigation in Human-shared environments
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/kl17vSAdG3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}} \n
+
+=== Time-Inverted Kuramoto Dynamics for k-Clustered Circle Coverage
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/AQxW9aP8ugo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}} \n
+
