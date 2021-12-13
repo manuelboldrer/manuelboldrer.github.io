@@ -5,30 +5,31 @@
 ~~~
 {Submitted Papers}
 
-\[3\] *M. Boldrer*, F. Riz, F. Pasqualetti, L. Palopoli and D. Fontanelli, "Time-Inverted Kuramoto Dynamics for k-Clustered Circle Coverage", in /IEEE 60th Conference on Decision and Control (CDC)/, 2021. To appear. \n
-\[2\] *M. Boldrer*, L. Palopoli and D. Fontanelli, "A Unified Lloyd-based Framework for Multi-Agent Collective Behaviour", in /Elsevier Robotics and Autonomous Systems/. Under review. \n
-\[1\]  *M. Boldrer*, A. Antonucci, P. Bevilacqua, L. Palopoli and D. Fontanelli, "Multi-Agent Navigation in Human-Shared Environments: a Safe and Socially-aware Approach", in in /Elsevier Robotics and Autonomous Systems/. Under review.
+
+1. *M. Boldrer*, L. Palopoli and D. Fontanelli, "A Unified Lloyd-based Framework for Multi-Agent Collective Behaviour", in /Elsevier Robotics and Autonomous Systems/. Under review. \n
+
 
 
 ~~~
 
 ~~~
 {Journal Papers}
-\[2\]  *M. Boldrer*, P. Bevilacqua, L. Palopoli,
+3.  *M. Boldrer*, A. Antonucci, P. Bevilacqua, L. Palopoli and D. Fontanelli, "Multi-Agent Navigation in Human-Shared Environments: a Safe and Socially-aware Approach", in in /Elsevier Robotics and Autonomous Systems/. Accepted. \n
+2.  *M. Boldrer*, P. Bevilacqua, L. Palopoli,
     D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9360440 Graph Connectivity Control of a Mobile Robot
   Network with Mixed Dynamic Multi-Tasks]" in /IEEE Robotics and
     Automation Letters/, vol. 6, no. 2, pp. 1934-1941, April 2021, doi: 10.1109\/LRA.2021.3061072. \n
-\[1\]  *M. Boldrer*, M. Andreetto, S. Divan, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9013059 Socially-Aware Reactive Obstacle Avoidance Strategy Based on Limit Cycle]", in /IEEE Robotics and Automation Letters/, vol. 5, no. 2, pp. 3251-3258, April 2020, doi: 10.1109\/LRA.2020.2976302. 
+1.  *M. Boldrer*, M. Andreetto, S. Divan, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9013059 Socially-Aware Reactive Obstacle Avoidance Strategy Based on Limit Cycle]", in /IEEE Robotics and Automation Letters/, vol. 5, no. 2, pp. 3251-3258, April 2020, doi: 10.1109\/LRA.2020.2976302. 
 ~~~
 
 
 ~~~
 {Conference Papers}
+4. *M. Boldrer*, F. Riz, F. Pasqualetti, L. Palopoli and D. Fontanelli, "Time-Inverted Kuramoto Dynamics for k-Clustered Circle Coverage", in /IEEE 60th Conference on Decision and Control (CDC)/, 2021. To appear. \n
+3.  *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9202765 Socially-Aware Multi-agent Velocity Obstacle Based Navigation for Nonholonomic Vehicles]", in /IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)/, 2020, pp. 18-25, doi: 10.1109\/COMPSAC48688.2020.00012. \n
 
-\[3\]  *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9202765 Socially-Aware Multi-agent Velocity Obstacle Based Navigation for Nonholonomic Vehicles]", in /IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)/, 2020, pp. 18-25, doi: 10.1109\/COMPSAC48688.2020.00012. \n
+2.  *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9341272 Lloyd-based Approach for Robots Navigation in Human-shared environments]", in /IEEE RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2020, pp. 6982-6989, doi: 10.1109\/IROS45743.2020.9341272. \n
 
-\[2\]  *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9341272 Lloyd-based Approach for Robots Navigation in Human-shared environments]", in /IEEE RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2020, pp. 6982-6989, doi: 10.1109\/IROS45743.2020.9341272. \n
-
-\[1\]  *M. Boldrer*, D. Fontanelli and L. Palopoli, "[https://ieeexplore.ieee.org/abstract/document/9028967 Coverage control and distributed consensus-based estimation for mobile sensing networks in complex environments]", in /IEEE 58th Conference on Decision and Control (CDC)/, 2019, pp. 7838-7843, doi: 10.1109\/CDC40024.2019.9028967.
+1.  *M. Boldrer*, D. Fontanelli and L. Palopoli, "[https://ieeexplore.ieee.org/abstract/document/9028967 Coverage control and distributed consensus-based estimation for mobile sensing networks in complex environments]", in /IEEE 58th Conference on Decision and Control (CDC)/, 2019, pp. 7838-7843, doi: 10.1109\/CDC40024.2019.9028967.
 ~~~
 
