@@ -2,3 +2,7 @@ python jemdoc.py -c mysite.conf index.jemdoc
 
 
 python jemdoc.py -c mysite.conf index.jemdoc MainPage.jemdoc miscellaneous.jemdoc publications.jemdoc videos.jemdoc researchinterests.jemdoc  
+
+
+{{<script type="text/javascript" src="https://www.counters-free.net/count/9y39"></script><br>
+ <a href='https://www.versicherungen.at/rechtsschutzversicherung-rechner/'>Rechtsschutzversicherung</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=3647aeaa53304cc9dabd5d107e10603cd3befe7f'></script>}} \n

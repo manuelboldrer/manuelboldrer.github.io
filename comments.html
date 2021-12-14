@@ -5,7 +5,7 @@
 <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Manuel Boldrer</title>
+<title>Comments sections</title>
 <!-- MathJax -->
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
@@ -21,33 +21,43 @@ MathJax.Hub.Config({
 <tr valign="top">
 <td id="layout-menu">
 <div class="menu-category">Manuel Boldrer</div>
-<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="index.html">Home</a></div>
 <div class="menu-item"><a href="CV_Manuel_Boldrer.pdf">Curriculum&nbsp;Vitae</a></div>
 <div class="menu-item"><a href="miscellaneous.html">Miscellaneous</a></div>
 <div class="menu-category">Research</div>
 <div class="menu-item"><a href="researchinterests.html">Research&nbsp;Interests</a></div>
 <div class="menu-item"><a href="publications.html">Publications</a></div>
 <div class="menu-item"><a href="videos.html">Videos</a></div>
-<div class="menu-item"><a href="comments.html">Comments</a></div>
+<div class="menu-item"><a href="comments.html" class="current">Comments</a></div>
 </td>
 <td id="layout-content">
 <div id="toptitle">
-<h1>Manuel Boldrer</h1>
-<div id="subtitle"></div>
+<h1>Comments sections</h1>
+<div id="subtitle">
+
+<br /></div>
 </div>
-<table class="imgtable"><tr><td>
-<a href="https://manuelboldrer.github.io/personal_website/"><img src="Manuel.jpeg" alt="alt text" width="196.4" height="256px" /></a>&nbsp;</td>
-<td align="left"><p>PhD Candidate<br /> 
-<a href="Department" target=&ldquo;blank&rdquo;>of Industrial Engineering</a>, <br /> 
-<a href="University" target=&ldquo;blank&rdquo;>of Trento</a><br />
-Via Sommarive, 9 <br />
-Trento, 38121, Italy <br />
-Email: manuel.boldrer@unitn.it <br /></p>
-</td></tr></table>
-<h2>Short Biography</h2>
+<p><section id="app">
+<div class="container">
+<div class="row">
+<div class="col-6">
+<div class="comment">
+<p v-for="items in item" v-text="items"></p>
+</div><!--End Comment-->
+</div><!--End col -->
+</div><!-- End row -->
+<div class="row">
+<div class="col-6">
+<textarea type="text" class="input" placeholder="Write a comment" v-model="newItem" @keyup.enter="addItem()"></textarea>
+<button v-on:click="addItem()" class='primaryContained float-right' type="submit">Add Comment</button>
+</div><!-- End col -->
+</div><!--End Row -->
+</div><!--End Container -->
+</section><!-- end App -->
+<br /></p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2021-12-14 11:30:41 Pacifico (ora solare), by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+Page generated 2021-12-14 11:30:31 Pacifico (ora solare), by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
 </div>
 </div>
 </td>
