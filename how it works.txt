@@ -1,1 +1,4 @@
 python jemdoc.py -c mysite.conf index.jemdoc
+
+
+python jemdoc.py -c mysite.conf index.jemdoc MainPage.jemdoc miscellaneous.jemdoc publications.jemdoc videos.jemdoc researchinterests.jemdoc  
