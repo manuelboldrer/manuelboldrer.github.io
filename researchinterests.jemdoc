@@ -4,7 +4,7 @@
 
 === Distributed control algorithms for robotic systems
 ~~~
-{}{img_left}{collective.png}{alt text}{320}{180}
+{}{img_left}{photos/collective.png}{alt text}{320}{180}
 The challenge of distributed control is about designing 
 local control laws such that a desired collective behavior 
 emerges from the local interactions between neighboring agents. The
@@ -26,7 +26,7 @@ control in robotic applications are the following:
 
 === Robot navigation in human-shared environments
 ~~~
-{}{img_left}{ma.png}{alt text}{320}{180}
+{}{img_left}{photos/ma.png}{alt text}{320}{180}
 The ability to navigate their way through partially known
 environments in complete autonomy is a key functionality
 for mobile robots. However, the ambitious requirements of
@@ -46,7 +46,7 @@ identify five classes of requirements:
 
 === Resilient multi-robot control
 ~~~
-{}{img_left}{pic3.jpg}{alt text}{320}{180}
+{}{img_left}{photos/pic3.jpg}{alt text}{320}{180}
 A resilient multi-robot system refers to a group of 
 robots that are designed to continue functioning even
 when one or more robots fail or are compromised. 
