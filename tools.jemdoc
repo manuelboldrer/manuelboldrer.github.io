@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{tools.html}
+=Useful Tools for Robotics
+
+~~~
+Linux []
+
+Tmux []
+
+Python and C\+\+ []
+
+[https://www.youtube.com/playlist?list=PLLSegLrePWgIbIrA4iehUQ-impvIXdd9Q ROS]
+
+Docker []
+
+[https://www.youtube.com/watch?v=USjZcfj8yxE Git] and [https://www.youtube.com/watch?v=nhNq2kIvi9s GitHub]  
+
+Latex []
+
+Visual Studio Code []
+
+~~~
+

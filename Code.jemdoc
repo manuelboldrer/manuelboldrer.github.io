@@ -1,40 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Code</title>
-<!-- MathJax -->
-<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-	  TeX: { equationNumbers: { autoNumber: "AMS" } }
-});
-</script>
-<!-- End MathJax -->
-</head>
-<body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
-<div class="menu-category">Manuel Boldrer</div>
-<div class="menu-item"><a href="index.html">Home</a></div>
-<div class="menu-item"><a href="CV.pdf">Curriculum&nbsp;Vitae</a></div>
-<div class="menu-item"><a href="gallery.html">Photo&nbsp;Gallery</a></div>
-<div class="menu-category">Research</div>
-<div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="code.html">Code</a></div>
-<div class="menu-item"><a href="researchinterests.html">Research&nbsp;Interests</a></div>
-<div class="menu-item"><a href="videos.html">Videos</a></div>
-<div class="menu-item"><a href="tools.html">Useful&nbsp;links</a></div>
-</td>
-<td id="layout-content">
-<div id="toptitle">
-<h1>Code</h1>
-</div>
+# jemdoc: menu{MENU}{Code.html}
+=Code
+
+~~~
+{}{raw}
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,6 +22,11 @@ MathJax.Hub.Config({
         width="200px"/>
 </body>
 </html> 
+~~~
+
+
+~~~
+{}{raw}
 <!DOCTYPE html>
 <html>
 <head>
@@ -73,6 +46,11 @@ for the only navigation version <a href="https://github.com/manuelboldrer/Lloyd-
         width="300px"/>
 </body>
 </html> 
+~~~
+
+
+~~~
+{}{raw}
 <!DOCTYPE html>
 <html>
 <head>
@@ -92,6 +70,11 @@ for the only navigation version <a href="https://github.com/manuelboldrer/Lloyd-
         width="300px"/></p>
 </body>
 </html> 
+~~~
+
+
+~~~
+{}{raw}
 <!DOCTYPE html>
 <html>
 <head>
@@ -112,13 +95,4 @@ for the only navigation version <a href="https://github.com/manuelboldrer/Lloyd-
 </body>
 
 </html> 
-<div id="footer">
-<div id="footer-text">
-Page generated 2024-05-21 19:50:42 CEST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</td>
-</tr>
-</table>
-</body>
-</html>
+~~~

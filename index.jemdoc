@@ -1,0 +1,76 @@
+# jemdoc: menu{MENU}{MainPage.html}
+=Manuel Boldrer
+
+~~~
+{}{img_left}{manu.jpg}{alt text}{192}{255}{https://manuelboldrer.github.io/personal_website/}\n
+=== Postdoctoral Scholar
+Faculty of Electrical Engineering  \n 
+Department of Cybernetics \n
+Czech Technical University \n 
+Karlovo namesti 13, 121 35 Prague 2, Czechia \n
+Building E, Office KN:E-114 to KN:E-124, \n
+
+=== Contact
+Email: [boldrman@fel.cvut.cz boldrman@fel.cvut.cz] \n
+Orcid: [https://orcid.org/0000-0002-7534-5762 0000-0002-7534-5762] \n
+[https://scholar.google.it/citations?user=pqhsT3wAAAAJ&hl=it&oi=ao Google Scholar] \n
+[https://github.com/manuelboldrer Github]
+~~~
+
+== Research interests
+Multi-agent systems, Distributed control, Robotics.
+
+== Short Biography
+
+Manuel Boldrer received the master's degree in Mechatronic Engineering and Ph.D degree in Materials, Mechatronics and Systems Engineering from the University of Trento, Trento, Italy, respectively in 2018 and 2022. He was a Visiting Scholar at the University of California, Riverside, Riverside, US, in 2021. He was a Postdoctoral Researcher with the Cognitive Robotics Department (CoR), Delft University of Technology, Delft, The Netherlands, in the Reliable Robot Control Lab. As of today, he is a Postdoc at the Multi Robot System group (MRS), Czech Technical University, Prague, Czechia.
+~~~
+== News!
+- Mar 24, I joined [https://mrs.felk.cvut.cz/ MRS Group] at CTU Prague as a Researcher.
+- Oct 23, our paper "[https://doi.org/10.48550/arXiv.2310.19511 Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees]" is
+on arXiv. Soon also the [https://github.com/manuelboldrer/RBL code] will be released.
+- Jan 23, our paper "[https://doi.org/10.1109/LRA.2022.3224661 Time-inverted Kuramoto model Meets Lissajous Curves: Multi-Robot
+Persistent monitoring and Target Detection]" has been accepted for presentation at the [https://www.icra2023.org/ ICRA 2023].
+- Nov 22, our paper "[https://doi.org/10.1109/LRA.2022.3224661 Time-inverted Kuramoto model Meets Lissajous Curves: Multi-Robot
+Persistent monitoring and Target Detection]" has been accepted by [https://www2.scopus.com/sourceid/21100900379 RA-L]
+- Jul 22, our paper [https://doi.org/10.1109/LCSYS.2022.3178294 "Multi-Agent Persistent Monitoring via Time-Inverted Kuramoto
+Dynamics"] has been accepted for presentation at the [https://cdc2022.ieeecss.org/ CDC 2022]. 
+- Jul 22, our paper on [https://doi.org/ "A Unified Lloyd-based Framework for Multi-Agent Collective Behaviours"] has been accepted by [https://www.sciencedirect.com/journal/robotics-and-autonomous-systems RAS] \n
+- 6 Jun 22, I succesfully defended my PhD at University of Trento, supervised by [https://webapps.unitn.it/du/en/Persona/PER0047723/Pubblicazioni Daniele Fontanelli] and [https://luigipalopoli.disi.unitn.it/ Luigi Palopoli], \n Committee: [http://www.centropiaggio.unipi.it/~pallottino Lucia Pallottino], [https://people.kth.se/~dimos/ Dimos Dimarogonas], [https://andreadelprete.github.io/ Andrea Del Prete].
+- 15 May 22, I joined [https://r2clab.com/ R2C Lab] at TU Delft as Postdoctoral Scholar.
+- May 22, our paper [https://doi.org/10.1109/LCSYS.2022.3178294 "Multi-Agent Persistent Monitoring via Time-Inverted Kuramoto
+Dynamics"] has been accepted by [http://ieee-cssletters.dei.unipd.it/index.php L-CSS]
+- Dec 21, our paper on [https://doi.org/10.1016/j.robot.2021.103979 "Multi-Agent Navigation in Human-Shared Environments: a Safe and Socially-aware Approach"], has been accepted by [https://www.sciencedirect.com/journal/robotics-and-autonomous-systems RAS] \n
+- Website created on Dec. 14 2021
+~~~
+
+~~~
+== Conferences or events
+- [https://www.icra2023.org/ ICRA 2023] (London, UK)
+- [https://cdc2022.ieeecss.org/ CDC 2022] (Cancun, Mexico)
+- [http://disc.tudelft.nl/education/summer-school/disc-summer-school-2022/ DISC 2022] (Noordwijk, The Nederlands)
+- [https://2021.ieeecdc.org/ CDC 2021] ({{<del>Austin, Texas</del>}},
+online)
+- [https://ieee-icra.org/index.aspx ICRA 2021] ({{<del>Xi'an, China</del>}}, online)
+- [https://www.iros2020.org/ IROS 2020] ({{<del>Las Vegas, Nevada</del>}}, online)
+- [https://ieeecompsac.computer.org/2020/ COMPSAC 2020] ({{<del>Madrid, Spain</del>}}, online)
+- [https://www.ieee-ras.org/students/events/event/1144-icra-2020-ieee-international-conference-on-robotics-and-automation-icra ICRA 2020] ({{<del>Paris, France</del>}}, online)
+- [https://cdc2019.ieeecss.org/ CDC 2019] (Nice, France)
+- [http://www.eeci-igsc.eu/doc/users/975/bib/past/2019.pdf EECI 2019, M17] (Berlin, Germany)
+
+~~~
+\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+
+
+{{<script type="text/javascript" src="https://www.counters-free.net/count/9y39"></script><br>
+ </script>}} \n
+
+
+
+
+Created on Dec. 14 2021 \n
+
+
+
+
+
+

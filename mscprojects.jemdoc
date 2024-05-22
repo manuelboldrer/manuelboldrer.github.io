@@ -1,0 +1,12 @@
+# jemdoc: menu{MENU}{mscprojects.html}
+=== MSc Projects and Future Research directions
+
+~~~
+- Extension of the Lloyd-based framework \[J5\] to three dimensional spaces (drones applications) [proposal1.pdf click here];
+- Extension of vehicle platooning \[C7\] to attack-resilient lateral string stability [proposal3.pdf click here];
+- Extension of Time-Inverted Kuramoto dynamics \[J4\], learning optimal policies to steer the final configuration to the desired one [proposal2.pdf click here];
+- Extention of Multi-agent Navigation in Human-Shared environment \[J3\], improving coordination between robots, testing it with novel local path planners  [proposal4.pdf click here].
+
+\n\n\n
+For more details do not hesitate to contact me: [m.boldrer@tudelft.nl m.boldrer@tudelft.nl]
+~~~

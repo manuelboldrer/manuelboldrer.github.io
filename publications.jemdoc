@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{publications.html}
+=Publications
+
+
+~~~
+{Submitted Papers or in preparation}
+\[J7\]   *M. Boldrer*, A. Serra-Gomez, L. Lyons, V. Kratky, J. Alonso-Mora and L. Ferranti, "[https://doi.org/10.48550/arXiv.2310.19511 Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees]", 2023, Under Review\n
+\[J8\]   L. Lyons, *M. Boldrer* and L. Ferranti, "[h Distributed Attack-Resilient Platooning Against False Data Injection]", 2024, In Preparation\n
+~~~
+
+~~~
+{Journal Papers}
+
+\[J6\] *M. Boldrer*, L. Lyons, L. Palopoli, D. Fontanelli and L. Ferranti, "[https://doi.org/10.1109/LRA.2022.3224661 Time-inverted Kuramoto model Meets Lissajous Curves: Multi-Robot
+Persistent monitoring and Target Detection]", in [https://www2.scopus.com/sourceid/21100900379 /IEEE Robotics and
+    Automation Letters/], November 2022 doi: 10.1109\/LRA.2022.3224661. . \n
+\[J5\] *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://doi.org/10.1016/j.robot.2022.104207 A Unified Lloyd-based Framework for Multi-Agent Collective Behaviours]", in [https://www2.scopus.com/sourceid/18079 /Elsevier Robotics and Autonomous Systems/], doi: 10.1016\/j.robot.2022.104207 \n
+\[J4\] *M. Boldrer*, F. Pasqualetti, L. Palopoli and D. Fontanelli, "[https://doi.org/10.1109/LCSYS.2022.3178294 Multi-Agent Persistent Monitoring via Time-Inverted Kuramoto Dynamics]", in [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7782633 /IEEE Control Systems Letters/], doi: 10.1109\/LCSYS.2022.3178294. \n
+\[J3\]  *M. Boldrer*, A. Antonucci, P. Bevilacqua, L. Palopoli and D. Fontanelli, "[https://doi.org/10.1016/j.robot.2021.103979 Multi-Agent Navigation in Human-Shared Environments: a Safe and Socially-aware Approach]", in [https://www2.scopus.com/sourceid/18079 /Elsevier Robotics and Autonomous Systems/], doi: 10.1016\/j.robot.2021.103979. \n
+\[J2\]  *M. Boldrer*, P. Bevilacqua, L. Palopoli,
+    D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9360440 Graph Connectivity Control of a Mobile Robot
+  Network with Mixed Dynamic Multi-Tasks]" in [https://www2.scopus.com/sourceid/21100900379 /IEEE Robotics and
+    Automation Letters/], April 2021, doi: 10.1109\/LRA.2021.3061072. \n
+\[J1\]  *M. Boldrer*, M. Andreetto, S. Divan, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9013059 Socially-Aware Reactive Obstacle Avoidance Strategy Based on Limit Cycle]", in [https://www2.scopus.com/sourceid/21100900379 /IEEE Robotics and
+    Automation Letters/], April 2020, doi: 10.1109\/LRA.2020.2976302. 
+~~~
+
+
+~~~
+{Conference Papers}
+\[C6\] *M. Boldrer*, F. Riz, F. Pasqualetti, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9683310 Time-Inverted Kuramoto Dynamics for k-Clustered Circle Coverage]", in /IEEE 60th Conference on Decision and Control (CDC)/, 2021, pp. 1205-1211, doi: 10.1109\/CDC45484.2021.9683310. \n
+\[C5\] *M. Boldrer*, D. Fontanelli, A. Antonucci, L. Palopoli, "[https://doi.org/10.5281/zenodo.5900505 A Novel Framework for Multi-Agent Navigation in Human-Shared Environments]", in /3rd Italian Conference on Robotics and Intelligent Machines (I-RIM)/, 2021, pp. 21-23, doi: 10.5281\/zenodo.5900505 (*[https://i-rim.it/wp-content/uploads/2021/10/2021_IRIM_Awards_v2.pdf Best Student Paper Finalist!]*).\n
+\[C4\]  *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9202765 Socially-Aware Multi-agent Velocity Obstacle Based Navigation for Nonholonomic Vehicles]", in /IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC)/, 2020, pp. 18-25, doi: 10.1109\/COMPSAC48688.2020.00012. \n
+\[C3\]  *M. Boldrer*, L. Palopoli and D. Fontanelli, "[https://ieeexplore.ieee.org/abstract/document/9341272 Lloyd-based Approach for Robots Navigation in Human-shared environments]", in /IEEE RSJ International Conference on Intelligent Robots and Systems (IROS)/, 2020, pp. 6982-6989, doi: 10.1109\/IROS45743.2020.9341272. \n
+\[C2\] A. Antonucci, P. Bevilacqua, L. Palopoli, *M. Boldrer*, D. Fontanelli, "[https://doi.org/10.5281/zenodo.4782236 Motion Planning in Crowds: Proxemics as a Base for a Socially Acceptable Behaviour]", in /1st Italian Conference on Robotics and Intelligent Machines (I-RIM)/, 2019, doi: 10.5281\/zenodo.4782236. \n
+\[C1\]  *M. Boldrer*, D. Fontanelli and L. Palopoli, "[https://ieeexplore.ieee.org/abstract/document/9028967 Coverage control and distributed consensus-based estimation for mobile sensing networks in complex environments]", in /IEEE 58th Conference on Decision and Control (CDC)/, 2019, pp. 7838-7843, doi: 10.1109\/CDC40024.2019.9028967.
+~~~
+
