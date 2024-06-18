@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{gallery.html}
 =Photo gallery
 
+==== On the Field with MRS group (Temešvár, Czechia, Apr. 2024)
+~~~
+{}{img_left}{photos\tamesvar.jpg}{alt text}{768}{512}
+~~~
+
 ==== Hackathon at Cognitive Robotics Department (South Holland, Delft, Jan. 2024)
 ~~~
 {}{img_left}{photos\hackathon.jpg}{alt text}{768}{432}
