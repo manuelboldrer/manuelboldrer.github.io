@@ -4,7 +4,7 @@
 
 === Distributed control algorithms for robotic systems
 ~~~
-{}{img_left}{photos/collective.png}{alt text}{320}{180}
+{}{img_left}{photos/pics1.jpg}{alt text}{320}{180}
 The challenge of distributed control is about designing 
 local control laws such that a desired collective behavior 
 emerges from the local interactions between neighboring agents. The
