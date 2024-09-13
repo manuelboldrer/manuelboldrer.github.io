@@ -97,6 +97,10 @@ areas :
 	{
 		"id": "GB",
 		"showAsSelected": true
+	},
+	{
+		"id": "PL",
+		"showAsSelected": true
 	}
 ]
 },
