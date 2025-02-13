@@ -13,12 +13,12 @@ undisputed benefits in terms of communication, sensing and
 computing power requirements, of flexibility and of robustness. 
 Relevant problems that can be addressed using distributed
 control in robotic applications are the following:
-- Static coverage
-- Dynamic coverage\/exploration\/patrolling
-- Navigation (flocking, formation)
-- Rendezvous
-- Connectivity maintenance
-- Topology control
+- Static coverage;
+- Dynamic coverage\/exploration\/patrolling\/target detection;
+- Navigation (flocking, formation);
+- Rendezvous;
+- Connectivity maintenance;
+- Topology control;
  
 ~~~
 
@@ -33,11 +33,11 @@ for mobile robots. However, the ambitious requirements of
 a new generation of robotic applications set a high bar for
 the development of navigation algorithms. Specifically, we can
 identify five classes of requirements:
-- Robustness and safety in navigation
-- Socially-aware motion planning
-- Multi-agent coordination
-- Management of highly dynamical environments
-- Computation efficiency \n
+- Robustness and safety in navigation;
+- Socially-aware motion planning;
+- Multi-agent coordination;
+- Management of highly dynamical environments;
+- Computation efficiency; \n
 
 ~~~
 
@@ -46,7 +46,7 @@ identify five classes of requirements:
 
 === Resilient multi-robot control
 ~~~
-{}{img_left}{photos/pic3.jpg}{alt text}{320}{180}
+{}{img_left}{photos/jet_pic_intro.png}{alt text}{335}{110}
 A resilient multi-robot system refers to a group of 
 robots that are designed to continue functioning even
 when one or more robots fail or are compromised. 
