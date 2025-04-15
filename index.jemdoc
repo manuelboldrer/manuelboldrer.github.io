@@ -25,7 +25,7 @@ Multi-agent systems, Distributed control, Robotics.
 Manuel Boldrer received the master's degree in Mechatronic Engineering and Ph.D degree in Materials, Mechatronics and Systems Engineering from the University of Trento, Trento, Italy, respectively in 2018 and 2022. He was a Visiting Scholar at the University of California, Riverside, Riverside, US, in 2021. He was a Postdoctoral Researcher with the Cognitive Robotics Department (CoR), Delft University of Technology, Delft, The Netherlands, in the Reliable Robot Control Lab. As of today, he is a Postdoc at the Multi Robot System group (MRS), Czech Technical University, Prague, Czechia.
 ~~~
 == News!
-- 15 Mar 24, I joined [https://mrs.felk.cvut.cz/ MRS Group] at CTU Prague as a Researcher.
+- 15 Mar 24, I joined [https://mrs.fel.cvut.cz/ MRS Group] at CTU Prague as a Researcher.
 - Oct 23, our paper "[https://doi.org/10.48550/arXiv.2310.19511 Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees]" is
 on arXiv. Soon also the [https://github.com/manuelboldrer/RBL code] will be released.
 - Jan 23, our paper "[https://doi.org/10.1109/LRA.2022.3224661 Time-inverted Kuramoto model Meets Lissajous Curves: Multi-Robot
