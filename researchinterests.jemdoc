@@ -27,10 +27,10 @@ control in robotic applications are the following:
 
 [https://manuelboldrer.github.io/publications.html Related Publications: \[J2\]\[J4\]\[J5\]\[C1\].]
 
-=== Robot navigation in human-shared environments
+=== Multi-Robot navigation in Complex Environments
 ~~~
 {}{img_left}{photos/ma.png}{alt text}{320}{180}
-The ability to navigate their way through partially known
+The ability to navigate their way through unknown/partially known
 environments in complete autonomy is a key functionality
 for mobile robots. However, the ambitious requirements of
 a new generation of robotic applications set a high bar for
@@ -38,7 +38,7 @@ the development of navigation algorithms. Specifically, we can
 identify five classes of requirements:
 - Robustness and safety in navigation;
 - Socially-aware motion planning;
-- Multi-agent coordination;
+- Effective Multi-robot coordination;
 - Management of highly dynamical environments;
 - Computation efficiency; \n
 

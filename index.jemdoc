@@ -26,9 +26,9 @@ Manuel Boldrer received the master's degree in Mechatronic Engineering and Ph.D 
 ~~~
 == News!
 
-
--  Apr 25, our paper "[https://doi.org/10.48550/arXiv.2504.18840 Swarming in the Wild: A Distributed Communication-less Lloyd-based Algorithm dealing with Uncertainties"] is
-on arXiv. Soon also the [https://github.com/ctu-mrs/rbl_controller code] will be released.
+- Aug 25, our paper "[https://arxiv.org/abs/2411.04789 Distributed Attack-Resilient Platooning Against False Data Injection]" has been accepted by [https://vtsociety.org/publication/ieee-transactions-vehicular-technology TVT]. 
+-  Apr 25, our paper "[https://doi.org/10.48550/arXiv.2504.18840 Distributed Lloyd-Based Algorithm for Uncertainty-Aware Multi-Robot Under-Canopy Flocking]" is
+on arXiv. the [https://github.com/ctu-mrs/rbl_controller code].
 - Apr 25, our paper "[https://doi.org/10.48550/arXiv.2504.18832 Aerial Robots Persistent Monitoring and Target Detection: Deployment and Assessment in the Field]" on arXiv. Soon also the [https://github.com/ctu-mrs/distributed-area-monitoring code] will be released.
 - 15 Mar 24, I joined [https://mrs.fel.cvut.cz/ MRS Group] at CTU Prague as a Researcher.
 - Oct 23, our paper "[https://doi.org/10.48550/arXiv.2310.19511 Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees]" is
@@ -50,6 +50,7 @@ Dynamics"] has been accepted by [http://ieee-cssletters.dei.unipd.it/index.php L
 
 ~~~
 == Conferences or events
+- [https://mrs.fel.cvut.cz/summer-school-2025/ MRS Summer School 2025] (Prague, CZ)
 - [https://mrs.fel.cvut.cz/summer-school-2024/ MRS Summer School 2024] (Prague, CZ)
 - [https://www.icra2023.org/ ICRA 2023] (London, UK)
 - [https://cdc2022.ieeecss.org/ CDC 2022] (Cancun, Mexico)

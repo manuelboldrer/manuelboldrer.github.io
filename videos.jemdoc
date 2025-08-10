@@ -9,16 +9,14 @@
 [https://www.youtube.com/channel/UC_E1M5LR81gHupm-dWYGfgA Reliable Robot Control Lab Youtube Channel] \n
 [https://www.youtube.com/@ctu-mrs Multi-robot System Group at FEE-CTU in Prague]
 
-=== Swarming in the Wild: A Distributed Communication-less Lloyd-based Algorithm dealing with Uncertainties
-{{<iframe width="560" height="315" src="https://www.youtube.com/embed/OkBTZ_6Msxg" title="Swarming in the Wild" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}}\n
-
-=== Distributed Attack-Resilient Platooning Against False Data Injection
-# {{<iframe width="560" height="315" src="https://www.youtube.com/embed/wwJYUiD56eg" title="Distributed Attack-Resilient Platooning Against False Data Injection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}}\n
-{{<iframe width="560" height="315" src="https://www.youtube.com/embed/M0ukDXu6Mk0?si=20ijPuGsScf_bwA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}}\n
+=== Distributed Lloyd-based Algorithm for Uncertainty-Aware Multi-Robot Under-Canopy Flocking
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/xmGG0GsRGao" title="Distributed Lloyd-Based Algorithm for Uncertainty-Aware Multi-Robot Under-Canopy Flocking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}} \n
 
 === Aerial Robots for Persistent Monitoring and Target Detection: Deployment and Assessment in The Field
 {{ <iframe width="560" height="315" src="https://www.youtube.com/embed/QjE-F9L5jMI" title="Aerial Robots Persistent Monitoring and Target Detection: Deployment and Assessment in the Field" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}} \n
 
+=== Distributed Attack-Resilient Platooning Against False Data Injection
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/M0ukDXu6Mk0?si=20ijPuGsScf_bwA9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}}\n
 
 === Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control with Safety and Convergence Guarantees
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/uVN8REBzhng" title="Rule-Based Lloyd Algorithm for Multi-Robot Motion Planning and Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>}} \n
