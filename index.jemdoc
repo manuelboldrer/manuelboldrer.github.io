@@ -71,9 +71,14 @@ online)
 {{<script type="text/javascript" src="https://www.counters-free.net/count/9y39"></script><br>
  </script>}} \n
 
-Created on Dec. 14 2021 \n
-
-{{<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=OiebOR07yuoEFPNTxOOv4A-FmKza3ggdhnhRJA2stR0&cl=ffffff&w=a"></script>}}
+ Created on Dec. 14 2021 \n
+{{<div style="width:150px; height:150px; overflow:hidden;">
+  <script 
+    type="text/javascript" 
+    id="mapmyvisitors" 
+    src="//mapmyvisitors.com/map.js?d=OiebOR07yuoEFPNTxOOv4A-FmKza3ggdhnhRJA2stR0&cl=ffffff&w=a">
+  </script>
+</div>}}
 
 Created on Oct. 14 2025 \n
 
