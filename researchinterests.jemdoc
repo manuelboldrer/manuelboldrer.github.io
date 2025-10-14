@@ -37,7 +37,7 @@ a new generation of robotic applications set a high bar for
 the development of navigation algorithms. Specifically, we can
 identify five classes of requirements:
 - Robustness and safety in navigation;
-- Socially-aware motion planning;
+- Socially-aware motion planning (in the presence of humans);
 - Effective Multi-robot coordination;
 - Management of highly dynamical environments;
 - Computation efficiency; \n
