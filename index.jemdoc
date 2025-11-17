@@ -32,34 +32,33 @@ Control Lab. As of today, he is a Postdoc at the Multi Robot System group
 (MRS), Czech Technical University, Prague, Czechia.
 
 
-== Selected Demo's 
+# == Selected Demo's 
+# ~~~
+# {}{raw}
+# <!DOCTYPE html>
+# <html>
+# <body>
+# <p> <img src="photos/tik0.gif" height="260px" width="520px"/> 
+# <img src="photos/5flock1.gif" height="260px" width="520px"/>
+# <img src="photos/circle71.gif" height="260px" width="520px"/>
+# <br>
+# <img src="photos/jackal1.gif" height="260px" width="520px"/>
+# <img src="photos/HA1.gif" height="260px" width="520px"/>
+# <img src="photos/platooning1.gif" height="260px" width="520px"/>
+# <br>
+# <img src="photos/circle21.gif" height="260px" width="520px"/>
+# <img src="photos/vid11.gif" height="260px" width="520px"/>
+# <img src="photos/vid21.gif" height="260px" width="520px"/>
+# <br>
+# <img src="photos/flock4_forset1.gif" height="260px" width="520px"/>
+# <img src="photos/dark1.gif" height="260px" width="520px"/>
+# <img src="photos/vid31.gif" height="260px" width="520px"/>
+# </p>
+# </body>
+# </html> 
+ 
 ~~~
-{}{raw}
-<!DOCTYPE html>
-<html>
-<body>
-<p> <img src="photos/tik0.gif" height="260px" width="520px"/> 
-<img src="photos/5flock1.gif" height="260px" width="520px"/>
-<img src="photos/circle71.gif" height="260px" width="520px"/>
-<br>
-<img src="photos/jackal1.gif" height="260px" width="520px"/>
-<img src="photos/HA1.gif" height="260px" width="520px"/>
-<img src="photos/platooning1.gif" height="260px" width="520px"/>
-<br>
-<img src="photos/circle21.gif" height="260px" width="520px"/>
-<img src="photos/vid11.gif" height="260px" width="520px"/>
-<img src="photos/vid21.gif" height="260px" width="520px"/>
-<br>
-<img src="photos/flock4_forset1.gif" height="260px" width="520px"/>
-<img src="photos/dark1.gif" height="260px" width="520px"/>
-<img src="photos/vid31.gif" height="260px" width="520px"/>
-</p>
-</body>
-</html> 
-~~~
-
 == News!
-
 - Aug 25, our paper "[https://arxiv.org/abs/2411.04789 Distributed Attack-Resilient Platooning Against False Data Injection]" has been accepted by [https://vtsociety.org/publication/ieee-transactions-vehicular-technology TVT]. 
 -  Apr 25, our paper "[https://doi.org/10.48550/arXiv.2504.18840 Distributed Lloyd-Based Algorithm for Uncertainty-Aware Multi-Robot Under-Canopy Flocking]" is
 on arXiv. the [https://github.com/ctu-mrs/rbl_controller code].
