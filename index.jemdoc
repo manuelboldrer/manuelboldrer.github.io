@@ -35,6 +35,7 @@ Control Lab. As of today, he is a Postdoc at the Multi Robot System group
  
 ~~~
 == News!
+- Dec 25, our paper "[https://arxiv.org/pdf/2504.18832 Aerial Robots for Persistent Monitoring and Target Detection: Deployment and Assessment in the Field]" has been accepted by [https://link.springer.com/journal/10514 AURO]
 - Aug 25, our paper "[https://arxiv.org/abs/2411.04789 Distributed Attack-Resilient Platooning Against False Data Injection]" has been accepted by [https://vtsociety.org/publication/ieee-transactions-vehicular-technology TVT]. 
 -  Apr 25, our paper "[https://doi.org/10.48550/arXiv.2504.18840 Distributed Lloyd-Based Algorithm for Uncertainty-Aware Multi-Robot Under-Canopy Flocking]" is
 on arXiv. the [https://github.com/ctu-mrs/rbl_controller code].
