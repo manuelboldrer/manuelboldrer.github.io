@@ -3,6 +3,18 @@
 {{<link rel="icon" href="photos/favicon.ico" type="image/x-icon" />}}
 
 
+=== Fast Communication-free Multi-robot coordination in unknown GNSS-denied environments
+~~~
+{}{img_left}{photos/forest3.png}{alt text}{320}{180}
+Coordinating multiple robots safely in unknown, GNSS-denied environments at
+high speed remains an open research challenge. Solving it would enable robust
+autonomous swarms that can operate where GPS and communication are unreliable,
+while still maintaining collision-free, coordinated behavior. Applications span
+  high-impact domains such as forest inventory, underground mine exploration,
+  disaster response in collapsed infrastructure, and large-scale environmental
+  monitoring in remote or hazardous areas.
+
+~~~
 
 
 === Distributed control algorithms for robotic systems
