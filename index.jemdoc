@@ -97,9 +97,9 @@ online)
 
 # Created on Oct. 14 2025 \n
 
-{{
-  <a href="lightning:coffee@pay.manuel-b.com"> Buy me a lightning coffee :)</a>
-}}
-{{
-<a href="LN.pdf">(view QR)</a>
-}}
+# {{
+#   <a href="lightning:coffee@pay.manuel-b.com"> Buy me a lightning coffee :)</a>
+# }}
+# {{
+# <a href="LN.pdf">(view QR)</a>
+# }}
